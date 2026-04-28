@@ -527,9 +527,6 @@ const Footer = () => {
         </div>
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] font-mono uppercase tracking-[0.2em] text-muted-foreground">
           <p>© 2026 給樂數位 Gather Digital. System_Status: <span className="text-green-500">Online</span></p>
-          <div className="flex gap-8">
-            <span className="text-primary/60">台北市中正區仁愛路二段25號5樓</span>
-          </div>
         </div>
       </div>
     </footer>
