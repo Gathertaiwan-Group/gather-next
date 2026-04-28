@@ -526,7 +526,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] font-mono uppercase tracking-[0.2em] text-muted-foreground">
-          <p>© 2026 給樂數位 Gather Digital. System_Status: <span className="text-green-500">Online</span></p>
+          <p>© 2026 給樂數位 Gather Digital.</p>
         </div>
       </div>
     </footer>
