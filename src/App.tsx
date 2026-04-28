@@ -525,7 +525,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] font-mono uppercase tracking-[0.2em] text-muted-foreground">
+        <div className="pt-8 border-t border-white/5 flex justify-center items-center text-[10px] font-mono uppercase tracking-[0.2em] text-muted-foreground">
           <p>© 2026 給樂數位 Gather Digital.</p>
         </div>
       </div>
